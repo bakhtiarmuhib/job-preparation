@@ -23,3 +23,6 @@ value1 /= value2
 
 print("value1:",int(value1),"value2:",int(value2))
 
+
+
+
