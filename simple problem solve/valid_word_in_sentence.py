@@ -1,4 +1,4 @@
-sentence = "ooo are mine& and I am your9"
+sentence = "This is for submis$ion code 234"
 
 sentence_list = sentence.split(" ")
 output = 0
@@ -12,7 +12,6 @@ for word in sentence_list:
                                             or "i" not in list(word.lower()) 
                                             or "o" not in list(word.lower())  
                                             or "u" not in list(word.lower()) ) :
-
 
         output += 1
 print(output)
